@@ -23,6 +23,32 @@
         "id": "https://siyucatherineli.github.io/normasosa-oralhistory/normasosa-interview/canvas-1/canvas",
         "type": "Canvas",
         "duration": 7913.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa-oralhistory/annotations/normasosa-interview-canvas-1-interviwer.json",
+            "label": {
+              "none": ["interviwer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa-oralhistory/annotations/normasosa-interview-canvas-1-interviewer.json",
+            "label": {
+              "none": ["interviewer"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://siyucatherineli.github.io/normasosa-oralhistory/annotations/normasosa-interview-canvas-1-x.json",
+            "label": {
+              "none": ["x"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://siyucatherineli.github.io/normasosa-oralhistory/normasosa-interview/canvas-1/paintings",
