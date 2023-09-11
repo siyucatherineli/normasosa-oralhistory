@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Norma Sosa AudiAnnotate" ] },
+    "summary": { "en": [ "Annotating on Norma Sosa's interview (Oral History Project by UT Austin)." ] },
+    "items": [
+    ]
+}
